@@ -1,4 +1,3 @@
-layout_spectrum: 0.3874787192326039
 typography_spectrum: 0.05077891889959574
 color:
   brandStrength: 0.4174295552074909
@@ -11,4 +10,6 @@ color:
     - '#B08E69'
     - '#347800'
     - '#1A2426'
+layout_spectrum: 0.3874787192326039
 name: urban artisans
+title: Ashfield's New Local
